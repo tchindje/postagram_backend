@@ -1,0 +1,5 @@
+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
+
+git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
+
+git push https://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@github.com/tchindje/postagram_backend.git
